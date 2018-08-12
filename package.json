@@ -1,16 +1,17 @@
 {
   "name": "ts-xlsx",
-  "version": "2.0.2",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["export excel","excel","export","typescript export excel","typescript","angular5 export excel","angular excel","angular6 export excel"],
+  "author": "daniele_baggio",
+  "license": "MIT",
+  "private": false,
+  "description": "Export Excel Library",
+  "repository": "https://github.com/danielebaggio/ts-xlsx",
   "devDependencies": {
     "typescript": "^3.0.1"
   },
