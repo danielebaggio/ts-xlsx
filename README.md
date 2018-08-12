@@ -1,4 +1,4 @@
-# ts-xlsx
+# ts-xlsx-export
 
 
 This library allows you to export json data in Excel. It has been written in typescripte so it can be used in all projects using typescript. For example, projects with Angular. The installation and use are very simple.. 
@@ -6,13 +6,13 @@ This library allows you to export json data in Excel. It has been written in typ
 ## Installation
 
 ```Javascript
-    npm i ts-xlsx
+    npm i ts-xlsx-export
 ```
 
 ## Utilization
 
 ```Javascript
-    import { tsXLXS } from 'ts-xlsx';
+    import { tsXLXS } from 'ts-xlsx-export';
 
     tsXLXS().exportAsExcelFile(jsonData).saveAsExcelFile(fileName);
 ```
